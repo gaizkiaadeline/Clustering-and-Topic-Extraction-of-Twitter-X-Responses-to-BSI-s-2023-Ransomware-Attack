@@ -16,6 +16,6 @@ This project explores user responses to the 2023 ransomware attack on BSI, which
 **Technologies Used:**
 - Python: For data processing and model development.
 - Scikit-learn: For clustering and silhouette score analysis.
-- NLTK / SpaCy: For text preprocessing.
+- NLTK: For text preprocessing.
 - Latent Dirichlet Allocation (LDA): For topic modeling.
 - Matplotlib / Seaborn: For visualizing results.
