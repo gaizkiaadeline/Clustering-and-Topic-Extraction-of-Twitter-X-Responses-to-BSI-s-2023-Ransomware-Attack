@@ -19,3 +19,5 @@ This project explores user responses to the 2023 ransomware attack on BSI, which
 - NLTK: For text preprocessing.
 - Latent Dirichlet Allocation (LDA): For topic modeling.
 - Matplotlib / Seaborn: For visualizing results.
+
+![image](https://github.com/user-attachments/assets/1e3e42ec-4d7f-4291-a271-7a1a9c0019c0)
